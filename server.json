@@ -1,0 +1,38 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Naruto 1° temporada",
+          "lessons": [
+            { "id": "NMIX4omtdqo&list=PLpkNlOWMOqptdpblXT2dLN2cPfBX_j_mv", "title": "Episódio 1", "duration": "20:09" },
+
+            { "id": "21ZhefirDsU&list=PLpkNlOWMOqptdpblXT2dLN2cPfBX_j_mv&index=2", "title": "Episódio 2", "duration": "20:27" },
+
+            { "id": "rpT0Y0JACSg&list=PLpkNlOWMOqptdpblXT2dLN2cPfBX_j_mv&index=3", "title": "Episódio 3", "duration": "20:07" },
+
+            { "id": "myd_qAJkTrE&list=PLpkNlOWMOqptdpblXT2dLN2cPfBX_j_mv&index=4", "title": "Episódio 4", "duration": "20:47" },
+
+            { "id": "MuPNntVLcDY&list=PLpkNlOWMOqptdpblXT2dLN2cPfBX_j_mv&index=5", "title": "Episódio 5", "duration": "23:47" },
+
+            { "id": "d8iyXIzhl4c&list=PLpkNlOWMOqptdpblXT2dLN2cPfBX_j_mv&index=6", "title": "Episódio 6", "duration": "15:16" }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Guerra ninja",
+          "lessons": [
+            { "id": "kRt8ili3tTM&list=PL3leb8S9ou_xDvmpTQW9l3ybuzwWAqzFj", "title": "Orochimaru ressuscita", "duration": "8:45" },
+            { "id": "XPTp0BKoXTA&list=PL3leb8S9ou_xDvmpTQW9l3ybuzwWAqzFj&index=2", "title": "Naruto e Sasuke x Madara", "duration": "9:07" },
+            { "id": "wrDoR656HFo&list=PL3leb8S9ou_xDvmpTQW9l3ybuzwWAqzFj&index=3", "title": "Maito Gai x Madara", "duration": "10:28" },
+            { "id": "Klg97-UYYi8&list=PL3leb8S9ou_xDvmpTQW9l3ybuzwWAqzFj&index=4", "title": "A morte de Neji", "duration": "9:27" }
+          ]
+        }
+
+        
+      ]
+    }
+  ]
+}
